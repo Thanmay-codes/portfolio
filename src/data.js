@@ -26,13 +26,7 @@ export const data = {
       github: 'https://github.com/Thanmay-codes/portfolio',
       live: 'https://thanmay-codes.github.io/portfolio',
     },
-    {
-      title: 'GitHub Profile README',
-      description: 'A dynamic, modern GitHub profile README with animated stats, streak tracker, and tech badges.',
-      tech: ['Markdown', 'GitHub Actions'],
-      github: 'https://github.com/Thanmay-codes/Thanmay-codes',
-      live: 'https://github.com/Thanmay-codes',
-    },
+    
     // Add more projects here as you build them!
   ],
 }
